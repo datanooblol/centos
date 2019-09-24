@@ -1,0 +1,5 @@
+FROM mysql
+
+# user: root
+# password: admin
+EXPOSE 3306
